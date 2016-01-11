@@ -1,0 +1,13 @@
+To Do Items...for those who care.
+
+In no particular order. Meaning I will get to them when I get to them, if ever.
+
+-Post working version of the system.
+-Update Readme to include installation instructions for XAMPP.
+-Get the system to work on a *nix computer.
+-Get the system to work as a server (on the local LAN)
+-Add audio file capability.
+-Add photo file capability.
+-Dream up some addtional features.
+
+Copleted items that were once not completed.
